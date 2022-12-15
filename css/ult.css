@@ -1,0 +1,324 @@
+.flex-conteiner{
+	width: 100%;
+	height: 150vh;
+	background-color: white;
+	font-size: 28px;
+	color: #363636;
+}
+.right-up-direita_mobile{
+	font-size: 0px;
+}
+.item-1{
+	width: 100%;
+	height: 32.5%;
+	background-color: white;
+}
+.bar-cima{
+	display: flex;
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.img-1-lugar{
+	width: 50%;
+	height: 100%;
+	background-color: white;
+}
+.img1{
+	width: 25%;
+	height: auto;
+	margin-left: 5vh;
+	margin-top: 0.5vh;
+}
+.img-2-lugar{
+	width: 50%;
+	height: 100%;
+	background-color: white;
+}
+.img2{
+	width: auto;
+	height: 100%;
+	margin-left: 22vh;
+}
+.bar-baixo{
+	width: 100%;
+	height: 75%;
+	background-color: white;
+}
+.img3{
+	width: auto;
+	height: 95%;
+	margin-top: 0.5%;
+	margin-left: 50vh;
+}
+.item-2{
+	display: flex;
+	width: 100%;
+	height: 67.5%;
+	background-color: white;
+}
+.bar-left{
+	width: 30%;
+	height: 100%;
+	background-color: white;
+}
+.img4{
+	width: 72%;
+	height: auto;
+	margin-left: 7vh;
+	margin-top: 1.5%;
+}
+.bar-right{
+	width: 70%;
+	height: 100%;
+	background-color: white;
+}
+.right-up{
+	display: flex;
+	width: 100%;
+	height: 50%;
+	background-color: white;
+}
+.right-up-direita{
+	width: 45%;
+	height: 100%;
+	background-color: white;
+}
+.right-up-esquerda{
+	width: 65%;
+	height: 100%;
+	background-color: white;
+}
+.img5{
+	width: 85%;
+	height: auto;
+	margin-top: 4vh;
+	margin-left: 4vh;
+}
+.right-down{
+	display: flex;
+	width: 100%;
+	height: 80vh;
+	background-color: darkslategrey;
+}
+.right-down-esquerda{
+	width: 25%;
+	height: 100%;
+	background-color: white;
+}
+.img-6-lugar{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.img-7-lugar{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.img-8-lugar{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.img-9-lugar{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.país{
+	width: 90%;
+	height: 90%;
+	margin-left: 2vh;
+}
+.right-down-direita{
+	width: 75%;
+	height: 100%;
+	background-color: white;
+	font-size: 20px;
+}
+.text_2{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.text_3{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.text_4{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.text_5{
+	width: 100%;
+	height: 25%;
+	background-color: white;
+}
+.img5_mobile{
+	width: 0%;
+	height: auto;
+	margin-left: 0vh;
+}
+.país_mobile{
+	width: 0%;
+	height: 0%;
+	margin-left: 0vh;
+}
+.right-down_mobile-direita{
+	font-size: 0vh;
+}
+.mais{
+	color: #1C1C1C;
+}
+
+@media (max-width: 375px) {
+	.flex-conteiner{
+		width: 100%;
+		height: 667px;
+		background-color: white;
+		font-size: 0px;
+	}
+	.item-1{
+		width: 100%;
+		height: 30%;
+		background-color: ;
+	}
+	.bar-cima{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.img1{
+		width: 50%;
+		height: auto;
+		margin-left: 3.5vh;
+	}
+	.img2{
+		width: 100%;
+		height: auto;
+		margin-left: 0vh;
+		margin-top: 1vh;
+	}
+	.bar-baixo{
+		width: 100%;
+		height: 75%;
+		background-color: white;
+	}
+	.img3{
+		width: 100%;
+		height: auto;
+		margin-left: 0vh;
+	}
+	.item-2{
+		width: 100%;
+		height: 70%;
+		background-color: white;
+	}
+	.bar-left{
+		width: 0%;
+		height: 0%;
+	}
+	.bar-right{
+		width: 100%;
+		height: 100%;
+		background-color: white;
+	}
+	.right-up{
+		width: 0%;
+		height: 0%;
+	}
+	.right-down{
+		width: 0%;
+		height: 0%;
+	}
+	.right-up_mobile{
+		width: 100%;
+		height: 60%;
+		background-color: white;
+	}
+	.right-up-direita_mobile{
+		width: 100%;
+		height: 35%;
+		background-color: white;
+		font-size: 15px;
+		text-align: center;
+	}
+	.right-up-esquerda_mobile{
+		width: 100%;
+		height: 65%;
+		background-color: white;
+	}
+	.img5_mobile{
+		width: 83%;
+		height: auto;
+		margin-left: 4vh;
+	}
+	.right-down_mobile{
+		display: flex;
+		width: 100%;
+		height: 60vh;
+		background-color: white
+	}
+	.right-down_mobile-esquerda{
+		width: 40%;
+		height: 100%;
+		background-color: white;
+	}
+	.img6-lugar{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.img7-lugar{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.img8-lugar{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.img9-lugar{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.right-down_mobile-direita{
+		width: 60%;
+		height: 100%;
+		background-color: white;
+		font-size: 15px;
+	}
+	.país_mobile{
+		width: 90%;
+		height: 90%;
+		margin-left: 1vh;
+	}
+	.text_6{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.text_7{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.text_8{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.text_9{
+		width: 100%;
+		height: 25%;
+		background-color: white;
+	}
+	.right-down-direita{
+		font-size: 0px;
+	}
+}
